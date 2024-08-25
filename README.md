@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Mechatronics at Mansoura University.
 - 🌱 &nbsp; Learning more about Embedded Systems, Microcontroller.
-- 🌱 &nbsp; Trying to Learn more about Robotics Development.
+- 🫣 &nbsp; Trying to Learn more about Robotics Development.
 - ✍️ &nbsp; Pursuing Graphic Design and Reading as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
