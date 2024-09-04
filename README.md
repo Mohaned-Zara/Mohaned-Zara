@@ -20,15 +20,17 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FCC624)
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vs-code&logoColor=red)
   ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-333333?style=flat&logo=CodeBlocks)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Blender](https://img.shields.io/badge/-blender-333333?style=flat&logo=blender)
+  ![SollidWorks](https://img.shields.io/badge/-solidworks-333333?style=flat&logo=solidworks)
 
 <h3> 📫 &nbsp;How to reach me: </h3>
 
