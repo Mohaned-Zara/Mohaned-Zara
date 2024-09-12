@@ -36,7 +36,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohaned-zare/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohanedzare-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mohanedzara@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-Mohanedzare-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
