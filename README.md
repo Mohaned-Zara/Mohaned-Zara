@@ -35,7 +35,7 @@
 <h3> 📫 &nbsp;How to reach me: </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohaned-zare/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohanedzare-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohaned-zara/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohanedzare-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 
